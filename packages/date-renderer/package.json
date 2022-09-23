@@ -1,6 +1,6 @@
 {
   "name": "@jen-castiron/date-renderer",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "repository": "https://github.com/jen-castiron/monorepo-test",
@@ -13,6 +13,6 @@
   "author": "jen-castiron <jen@castironcoding.com>",
   "license": "ISC",
   "dependencies": {
-    "@jen-castiron/date-logic": "^2.0.1"
+    "@jen-castiron/date-logic": "^2.1.0"
   }
 }
