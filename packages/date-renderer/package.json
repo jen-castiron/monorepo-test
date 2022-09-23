@@ -3,6 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/jen-castiron/monorepo-test",
+  "publishConfig": {
+    "@jen-castiron:registry": "https://npm.pkg.github.com/jen-castiron"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
