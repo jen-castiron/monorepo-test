@@ -7,6 +7,9 @@ on:
       - development
       - main
 
+permissions:
+  packages: write
+
 jobs:
   publish:
     if: github.event.pull_request.merged == true # Condition
